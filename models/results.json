@@ -1,0 +1,32 @@
+{
+  "ridge": {
+    "stress": 22.501,
+    "mood": 14.193,
+    "health": 14.36
+  },
+  "xgb": {
+    "stress": 21.864,
+    "mood": 14.651,
+    "health": 14.545
+  },
+  "svr": {
+    "stress": 21.745,
+    "mood": 15.104,
+    "health": 14.148
+  },
+  "random_forest": {
+    "stress": 22.135,
+    "mood": 14.197,
+    "health": 14.542
+  },
+  "gradient_boosting": {
+    "stress": 22.388,
+    "mood": 15.772,
+    "health": 15.779
+  },
+  "multitask_ridge": {
+    "stress": 20.839,
+    "mood": 15.187,
+    "health": 12.551
+  }
+}
